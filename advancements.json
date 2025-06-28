@@ -1,0 +1,1185 @@
+{
+    "minecraft:story/root": {
+        "advancement_name": "Minecraft",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/mine_stone": {
+        "advancement_name": "Stone Age",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/upgrade_tools": {
+        "advancement_name": "Getting an Upgrade",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/smelt_iron": {
+        "advancement_name": "Acquire Hardware",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/obtain_armor": {
+        "advancement_name": "Suit Up",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/lava_bucket": {
+        "advancement_name": "Hot Stuff",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/iron_tools": {
+        "advancement_name": "Isn't It Iron Pick",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/deflect_arrow": {
+        "advancement_name": "Not Today, Thank You",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/form_obsidian": {
+        "advancement_name": "Ice Bucket Challenge",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/mine_diamond": {
+        "advancement_name": "Diamonds!",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/enter_the_nether": {
+        "advancement_name": "We Need to Go Deeper",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/shiny_gear": {
+        "advancement_name": "Cover Me with Diamonds",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/enchant_item": {
+        "advancement_name": "Enchanter",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/cure_zombie_villager": {
+        "advancement_name": "Zombie Doctor",
+        "isChallenge": false,
+        "isGoal": true,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/follow_ender_eye": {
+        "advancement_name": "Eye Spy",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:story/enter_the_end": {
+        "advancement_name": "The End?",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/root": {
+        "advancement_name": "Nether",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/return_to_sender": {
+        "advancement_name": "Return to Sender",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/find_bastion": {
+        "advancement_name": "Those Were the Days",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/obtain_ancient_debris": {
+        "advancement_name": "Hidden in the Depths",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/fast_travel": {
+        "advancement_name": "Subspace Bubble",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/find_fortress": {
+        "advancement_name": "A Terrible Fortress",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/obtain_crying_obsidian": {
+        "advancement_name": "Who is Cutting Onions?",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/distract_piglin": {
+        "advancement_name": "Oh Shiny",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/ride_strider": {
+        "advancement_name": "This Boat Has Legs",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/uneasy_alliance": {
+        "advancement_name": "Uneasy Alliance",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/loot_bastion": {
+        "advancement_name": "War Pigs",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/netherite_armor": {
+        "advancement_name": "Cover Me in Debris",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/get_wither_skull": {
+        "advancement_name": "Spooky Scary Skeleton",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/obtain_blaze_rod": {
+        "advancement_name": "Into Fire",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/charge_respawn_anchor": {
+        "advancement_name": "Not Quite \"Nine\" Lives",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/ride_strider_in_overworld_lava": {
+        "advancement_name": "Feels Like Home",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/explore_nether": {
+        "advancement_name": "Hot Tourist Destinations",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/summon_wither": {
+        "advancement_name": "Withering Heights",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/brew_potion": {
+        "advancement_name": "Local Brewery",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/create_beacon": {
+        "advancement_name": "Bring Home the Beacon",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/all_potions": {
+        "advancement_name": "A Furious Cocktail",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/create_full_beacon": {
+        "advancement_name": "Beaconator",
+        "isChallenge": false,
+        "isGoal": true,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:nether/all_effects": {
+        "advancement_name": "How Did We Get Here?",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:end/root": {
+        "advancement_name": "The End",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:end/kill_dragon": {
+        "advancement_name": "Free the End",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:end/dragon_egg": {
+        "advancement_name": "The Next Generation",
+        "isChallenge": false,
+        "isGoal": true,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:end/enter_end_gateway": {
+        "advancement_name": "Remote Getaway",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:end/respawn_dragon": {
+        "advancement_name": "The End... Again...",
+        "isChallenge": false,
+        "isGoal": true,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:end/dragon_breath": {
+        "advancement_name": "You Need a Mint",
+        "isChallenge": false,
+        "isGoal": true,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:end/find_end_city": {
+        "advancement_name": "The City at the End of the Game",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:end/elytra": {
+        "advancement_name": "Sky's the Limit",
+        "isChallenge": false,
+        "isGoal": true,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:end/levitate": {
+        "advancement_name": "Great View From Up Here",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/root": {
+        "advancement_name": "Adventure",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/heart_transplanter": {
+        "advancement_name": "Heart Transplanter",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/voluntary_exile": {
+        "advancement_name": "Voluntary Exile",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/use_lodestone": {
+        "advancement_name": "Country Lode, Take Me Home",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/spyglass_at_parrot": {
+        "advancement_name": "Is It a Bird?",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/kill_a_mob": {
+        "advancement_name": "Monster Hunter",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+        "advancement_name": "The Power of Books",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/trade": {
+        "advancement_name": "What a Deal!",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/trim_with_any_armor_pattern": {
+        "advancement_name": "Crafting a New Look",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/honey_block_slide": {
+        "advancement_name": "Sticky Situation",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/ol_betsy": {
+        "advancement_name": "Ol' Betsy",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+        "advancement_name": "Surge Protector",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/fall_from_world_height": {
+        "advancement_name": "Caves & Cliffs",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/salvage_sherd": {
+        "advancement_name": "Respecting the Remnants",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/avoid_vibration": {
+        "advancement_name": "Sneak 100",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/sleep_in_bed": {
+        "advancement_name": "Sweet Dreams",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/hero_of_the_village": {
+        "advancement_name": "Hero of the Village",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/spyglass_at_ghast": {
+        "advancement_name": "Is It a Balloon?",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/throw_trident": {
+        "advancement_name": "A Throwaway Joke",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+        "advancement_name": "It Spreads",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/shoot_arrow": {
+        "advancement_name": "Take Aim",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/kill_all_mobs": {
+        "advancement_name": "Monsters Hunted",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": {
+            "minecraft:blaze": false,
+            "minecraft:bogged": false,
+            "minecraft:breeze": false,
+            "minecraft:cave_spider": false,
+            "minecraft:creaking": false,
+            "minecraft:creeper": false,
+            "minecraft:drowned": false,
+            "minecraft:elder_guardian": false,
+            "minecraft:ender_dragon": false,
+            "minecraft:enderman": false,
+            "minecraft:endermite": false,
+            "minecraft:evoker": false,
+            "minecraft:ghast": false,
+            "minecraft:guardian": false,
+            "minecraft:hoglin": false,
+            "minecraft:husk": false,
+            "minecraft:magma_cube": false,
+            "minecraft:phantom": false,
+            "minecraft:piglin": false,
+            "minecraft:piglin_brute": false,
+            "minecraft:pillager": false,
+            "minecraft:ravager": false,
+            "minecraft:shulker": false,
+            "minecraft:silverfish": false,
+            "minecraft:skeleton": false,
+            "minecraft:slime": false,
+            "minecraft:spider": false,
+            "minecraft:stray": false,
+            "minecraft:vex": false,
+            "minecraft:vindicator": false,
+            "minecraft:witch": false,
+            "minecraft:wither": false,
+            "minecraft:wither_skeleton": false,
+            "minecraft:zoglin": false,
+            "minecraft:zombie": false,
+            "minecraft:zombie_villager": false,
+            "minecraft:zombified_piglin": false
+        },
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/totem_of_undying": {
+        "advancement_name": "Postmortal",
+        "isChallenge": false,
+        "isGoal": true,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/summon_iron_golem": {
+        "advancement_name": "Hired Help",
+        "isChallenge": false,
+        "isGoal": true,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/trade_at_world_height": {
+        "advancement_name": "Star Trader",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+        "advancement_name": "Smithing with Style",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": {
+            "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": false,
+            "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": false,
+            "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": false,
+            "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": false,
+            "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": false,
+            "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": false,
+            "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": false,
+            "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": false
+        },
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/two_birds_one_arrow": {
+        "advancement_name": "Two Birds, One Arrow",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/whos_the_pillager_now": {
+        "advancement_name": "Who's the Pillager Now?",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/arbalistic": {
+        "advancement_name": "Arbalistic",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+        "advancement_name": "Careful Restoration",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/adventuring_time": {
+        "advancement_name": "Adventuring Time",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": {
+            "minecraft:badlands": false,
+            "minecraft:bamboo_jungle": false,
+            "minecraft:beach": false,
+            "minecraft:birch_forest": false,
+            "minecraft:cherry_grove": false,
+            "minecraft:cold_ocean": false,
+            "minecraft:dark_forest": false,
+            "minecraft:deep_cold_ocean": false,
+            "minecraft:deep_dark": false,
+            "minecraft:deep_frozen_ocean": false,
+            "minecraft:deep_lukewarm_ocean": false,
+            "minecraft:deep_ocean": false,
+            "minecraft:desert": false,
+            "minecraft:dripstone_caves": false,
+            "minecraft:eroded_badlands": false,
+            "minecraft:flower_forest": false,
+            "minecraft:forest": false,
+            "minecraft:frozen_ocean": false,
+            "minecraft:frozen_peaks": false,
+            "minecraft:frozen_river": false,
+            "minecraft:grove": false,
+            "minecraft:ice_spikes": false,
+            "minecraft:jagged_peaks": false,
+            "minecraft:jungle": false,
+            "minecraft:lukewarm_ocean": false,
+            "minecraft:lush_caves": false,
+            "minecraft:mangrove_swamp": false,
+            "minecraft:meadow": false,
+            "minecraft:mushroom_fields": false,
+            "minecraft:ocean": false,
+            "minecraft:old_growth_birch_forest": false,
+            "minecraft:old_growth_pine_taiga": false,
+            "minecraft:old_growth_spruce_taiga": false,
+            "minecraft:pale_garden": false,
+            "minecraft:plains": false,
+            "minecraft:river": false,
+            "minecraft:savanna": false,
+            "minecraft:savanna_plateau": false,
+            "minecraft:snowy_beach": false,
+            "minecraft:snowy_plains": false,
+            "minecraft:snowy_slopes": false,
+            "minecraft:snowy_taiga": false,
+            "minecraft:sparse_jungle": false,
+            "minecraft:stony_peaks": false,
+            "minecraft:stony_shore": false,
+            "minecraft:sunflower_plains": false,
+            "minecraft:swamp": false,
+            "minecraft:taiga": false,
+            "minecraft:warm_ocean": false,
+            "minecraft:windswept_forest": false,
+            "minecraft:windswept_gravelly_hills": false,
+            "minecraft:windswept_hills": false,
+            "minecraft:windswept_savanna": false,
+            "minecraft:wooded_badlands": false
+        },
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/play_jukebox_in_meadows": {
+        "advancement_name": "Sound of Music",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+        "advancement_name": "Light as a Rabbit",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/spyglass_at_dragon": {
+        "advancement_name": "Is It a Plane?",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/very_very_frightening": {
+        "advancement_name": "Very Very Frightening",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/sniper_duel": {
+        "advancement_name": "Sniper Duel",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/bullseye": {
+        "advancement_name": "Bullseye",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/brush_armadillo": {
+        "advancement_name": "Isn't It Scute?",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/minecraft_trials_edition": {
+        "advancement_name": "Minecraft: Trial(s) Edition",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/crafters_crafting_crafters": {
+        "advancement_name": "Crafters Crafting Crafters",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/lighten_up": {
+        "advancement_name": "Lighten Up",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/who_needs_rockets": {
+        "advancement_name": "Who Needs Rockets?",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/under_lock_and_key": {
+        "advancement_name": "Under Lock and Key",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/revaulting": {
+        "advancement_name": "Revaulting",
+        "isChallenge": false,
+        "isGoal": true,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/blowback": {
+        "advancement_name": "Blowback",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:adventure/overoverkill": {
+        "advancement_name": "Over-Overkill",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/root": {
+        "advancement_name": "Husbandry",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/place_dried_ghast_in_water": {
+        "advancement_name": "Stay Hydrated!",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/safely_harvest_honey": {
+        "advancement_name": "Bee Our Guest",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/breed_an_animal": {
+        "advancement_name": "The Parrots and the Bats",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/allay_deliver_item_to_player": {
+        "advancement_name": "You've Got a Friend in Me",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/ride_a_boat_with_a_goat": {
+        "advancement_name": "Whatever Floats Your Goat!",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/tame_an_animal": {
+        "advancement_name": "Best Friends Forever",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/make_a_sign_glow": {
+        "advancement_name": "Glow and Behold!",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/fishy_business": {
+        "advancement_name": "Fishy Business",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/silk_touch_nest": {
+        "advancement_name": "Total Beelocation",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/tadpole_in_a_bucket": {
+        "advancement_name": "Bukkit Bukkit",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/obtain_sniffer_egg": {
+        "advancement_name": "Smells Interesting",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/plant_seed": {
+        "advancement_name": "A Seedy Place",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/wax_on": {
+        "advancement_name": "Wax On",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/bred_all_animals": {
+        "advancement_name": "Two by Two",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": {
+            "minecraft:armadillo": false,
+            "minecraft:axolotl": false,
+            "minecraft:bee": false,
+            "minecraft:camel": false,
+            "minecraft:cat": false,
+            "minecraft:chicken": false,
+            "minecraft:cow": false,
+            "minecraft:donkey": false,
+            "minecraft:fox": false,
+            "minecraft:frog": false,
+            "minecraft:goat": false,
+            "minecraft:hoglin": false,
+            "minecraft:horse": false,
+            "minecraft:llama": false,
+            "minecraft:mooshroom": false,
+            "minecraft:mule": false,
+            "minecraft:ocelot": false,
+            "minecraft:panda": false,
+            "minecraft:pig": false,
+            "minecraft:rabbit": false,
+            "minecraft:sheep": false,
+            "minecraft:sniffer": false,
+            "minecraft:strider": false,
+            "minecraft:turtle": false,
+            "minecraft:wolf": false
+        },
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/allay_deliver_cake_to_note_block": {
+        "advancement_name": "Birthday Song",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/complete_catalogue": {
+        "advancement_name": "A Complete Catalogue",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": {
+            "minecraft:tabby": false,
+            "minecraft:black": false,
+            "minecraft:red": false,
+            "minecraft:siamese": false,
+            "minecraft:british_shorthair": false,
+            "minecraft:calico": false,
+            "minecraft:persian": false,
+            "minecraft:ragdoll": false,
+            "minecraft:white": false,
+            "minecraft:jellie": false,
+            "minecraft:all_black": false
+        },
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/tactical_fishing": {
+        "advancement_name": "Tactical Fishing",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/leash_all_frog_variants": {
+        "advancement_name": "When the Squad Hops into Town",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/feed_snifflet": {
+        "advancement_name": "Little Sniffs",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/balanced_diet": {
+        "advancement_name": "A Balanced Diet",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": {
+            "apple": false,
+            "baked_potato": false,
+            "beetroot": false,
+            "beetroot_soup": false,
+            "bread": false,
+            "carrot": false,
+            "chorus_fruit": false,
+            "cooked_chicken": false,
+            "cooked_cod": false,
+            "cooked_mutton": false,
+            "cooked_porkchop": false,
+            "cooked_rabbit": false,
+            "cooked_salmon": false,
+            "cookie": false,
+            "dried_kelp": false,
+            "enchanted_golden_apple": false,
+            "glow_berries": false,
+            "golden_apple": false,
+            "golden_carrot": false,
+            "honey_bottle": false,
+            "melon_slice": false,
+            "mushroom_stew": false,
+            "poisonous_potato": false,
+            "potato": false,
+            "pufferfish": false,
+            "pumpkin_pie": false,
+            "rabbit_stew": false,
+            "raw_beef": false,
+            "raw_chicken": false,
+            "raw_cod": false,
+            "raw_mutton": false,
+            "raw_porkchop": false,
+            "raw_rabbit": false,
+            "raw_salmon": false,
+            "rotten_flesh": false,
+            "spider_eye": false,
+            "cooked_beef": false,
+            "suspicious_stew": false,
+            "sweet_berries": false,
+            "tropical_fish": false
+        },
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/obtain_netherite_hoe": {
+        "advancement_name": "Serious Dedication",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/wax_off": {
+        "advancement_name": "Wax Off",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/axolotl_in_a_bucket": {
+        "advancement_name": "The Cutest Predator",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/froglights": {
+        "advancement_name": "With Our Powers Combined!",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/plant_any_sniffer_seed": {
+        "advancement_name": "Planting the Past",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/kill_axolotl_target": {
+        "advancement_name": "The Healing Power of Friendship!",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/repair_wolf_armor": {
+        "advancement_name": "Good as New",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/whole_pack": {
+        "advancement_name": "The Whole Pack",
+        "isChallenge": true,
+        "isGoal": false,
+        "prerequisites": {
+            "minecraft:ashen": false,
+            "minecraft:black": false,
+            "minecraft:chestnut": false,
+            "minecraft:pale": false,
+            "minecraft:rusty": false,
+            "minecraft:snowy": false,
+            "minecraft:spotted": false,
+            "minecraft:striped": false,
+            "minecraft:woods": false
+        },
+        "completed": false,
+        "minecraftVersions": []
+    },
+    "minecraft:husbandry/remove_wolf_armor": {
+        "advancement_name": "Shear Brilliance",
+        "isChallenge": false,
+        "isGoal": false,
+        "prerequisites": null,
+        "completed": false,
+        "minecraftVersions": []
+    }
+}
